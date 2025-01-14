@@ -19,9 +19,8 @@ const Hero = ({}: HeroProps) => (
                 <Button
                     className={styles.button}
                     title="Try it for free"
-                    href="https://ui8-bento-elements.vercel.app/"
+                    href=""
                 />
-                <div className={styles.version}>v1.0.1 – macOS 12+</div>
             </div>
             <Images />
             <div className={styles.foot}>
@@ -35,7 +34,7 @@ const Hero = ({}: HeroProps) => (
                         "/images/avatar-4.png",
                         "/images/avatar-3.png",
                         "/images/avatar-2.png",
-                        "/images/avatar-1.png",
+                        "/images/avatar-1.png", 
                     ].map((avatar, index) => (
                         <div className={styles.avatar} key={index}>
                             <Image

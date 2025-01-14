@@ -41,7 +41,7 @@ const Header = ({}: HeaderProps) => {
                     <Button
                         className={styles.button}
                         title="Try it for free"
-                        href="https://ui8-bento-elements.vercel.app/"
+                        href=""
                     />
                     <div
                         className={cn(styles.overlay, {
