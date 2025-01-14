@@ -21,7 +21,7 @@ const Faq = ({}: FaqProps) => {
                     <Button
                         className={styles.button}
                         title="Contact us"
-                        href="https://ui8.net/ui8/products/bento-cards-simplelist"
+                        href="https://github.com/devayush204"
                     />
                 </div>
                 <div className={styles.list}>

@@ -1,7 +1,7 @@
 export const testimonials = [
     {
         id: "0",
-        author: "Emma L.",
+        author: "Ayush Bhatt",
         post: "Marketing Executive",
         avatar: "/images/avatar-1.png",
         title: "SimpleList revolutionized my daily routine.",
@@ -9,7 +9,7 @@ export const testimonials = [
     },
     {
         id: "1",
-        author: "Samantha K.",
+        author: "Sagar Dabas",
         post: "Freelance Writer",
         avatar: "/images/avatar-2.png",
         title: "The intuitive design makes list-making a breeze.",
@@ -17,7 +17,7 @@ export const testimonials = [
     },
     {
         id: "2",
-        author: "Ryan M.",
+        author: "Karan Nayal",
         post: "Entrepreneur",
         avatar: "/images/avatar-3.png",
         title: "I love how quickly I can create and edit lists.",
@@ -25,7 +25,7 @@ export const testimonials = [
     },
     {
         id: "3",
-        author: "David T.",
+        author: "Anmol Mishra",
         post: "Boutique Owner",
         avatar: "/images/avatar-4.png",
         title: "SimpleList is a game-changer for my small business.",
@@ -33,7 +33,7 @@ export const testimonials = [
     },
     {
         id: "4",
-        author: "Lila K.",
+        author: "Mamta",
         post: "Teacher",
         avatar: "/images/avatar-5.png",
         title: "SimpleList's reminders keep me on track without being intrusive.",

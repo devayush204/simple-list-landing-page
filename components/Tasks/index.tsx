@@ -88,7 +88,7 @@ const Tasks = ({
                                                 styles.tooltip
                                             )}
                                         >
-                                            {titleTooltip || "Kohaku"}
+                                            {titleTooltip || "Ayush"}
                                         </div>
                                     </div>
                                 )}

@@ -22,7 +22,7 @@ const Description = ({}: DescriptionProps) => (
                         <Button
                             className={styles.button}
                             title="Try it for free"
-                            href="https://ui8-bento-elements.vercel.app/"
+                            href="https://simple-list-delta.vercel.app/"
                         />
                         <div className={styles.version}>v1.0.1 – macOS 12+</div>
                     </div>
@@ -53,7 +53,7 @@ const Description = ({}: DescriptionProps) => (
                                     height={17}
                                     alt=""
                                 />
-                                <div className={styles.tooltip}>Totoro</div>
+                                <div className={styles.tooltip}>Sagar</div>
                             </Parallax>
                             <Parallax
                                 className={styles.cursor}
@@ -66,7 +66,7 @@ const Description = ({}: DescriptionProps) => (
                                     height={17}
                                     alt=""
                                 />
-                                <div className={styles.tooltip}>Kohaku</div>
+                                <div className={styles.tooltip}>Ayush</div>
                             </Parallax>
                         </div>
                     </div>

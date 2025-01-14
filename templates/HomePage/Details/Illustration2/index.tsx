@@ -11,7 +11,7 @@ const Illustration2 = ({}: Illustration2Props) => (
             className={styles.tasks}
             classFoot={styles.foot}
             classTooltip={styles.tooltip}
-            titleTooltip="Moyo Shiro"
+            titleTooltip="Ayush"
             items={tasks}
             animation
         />

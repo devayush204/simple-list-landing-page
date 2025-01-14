@@ -28,7 +28,7 @@ const Details = ({}: DetailsProps) => (
                     “Finally, a to-do app that doesn&apos;t overcomplicate
                     things!”
                 </div>
-                <div className={styles.info}>Kohaku – Dribbble</div>
+                <div className={styles.info}>Ayush – Github</div>
             </div>
             <div className="">
                 <Item

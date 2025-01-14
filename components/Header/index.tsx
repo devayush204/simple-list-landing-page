@@ -41,7 +41,7 @@ const Header = ({}: HeaderProps) => {
                     <Button
                         className={styles.button}
                         title="Try it for free"
-                        href=""
+                        href="https://simple-list-delta.vercel.app/"
                     />
                     <div
                         className={cn(styles.overlay, {

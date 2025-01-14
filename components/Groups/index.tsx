@@ -91,7 +91,7 @@ const Groups = ({
                                     height={17}
                                     alt=""
                                 />
-                                <div className={styles.tooltip}>Totoro</div>
+                                <div className={styles.tooltip}>Sagar</div>
                             </div>
                         )}
                     </div>
